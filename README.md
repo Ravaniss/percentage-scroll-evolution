@@ -1,4 +1,4 @@
-# percentage-scroll
+# percentage-scroll-evolution
 Reading a long article, the scrollbar at the top will tell where you are on the article 
 
 ## Project setup
